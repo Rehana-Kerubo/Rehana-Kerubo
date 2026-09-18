@@ -6,9 +6,9 @@
 
 I'm a final year Computer Science student, passionate about AI and data science with a strong interest in web and mobile app development. I enjoy learning more about the AI world and I aspire to venture into everything about it
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** What are you actively working on or building right now? I am currently working on a POS system for small businesses as well as a RAG based onboarding guidance system for sales agents.
+- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into? I am currently learning how to build a RAG based system from scratch.
+- ⚡ **Core Interests:** What domains excite you most? Web apps, mobile app solutions
 
 ---
 
@@ -41,8 +41,8 @@ I'm a final year Computer Science student, passionate about AI and data science 
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+- 💼 **Professional Network:** www.linkedin.com/in/deborahrehana
+- 📧 **Direct Contact:** deborah.kerubo@strathmore.edu
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
